@@ -1,7 +1,7 @@
 # break-through-Web-Dev-
 
 #Following are the steps to submit the task : 
-*Fork this repo
+1.)Fork this repo<br>
 *Now Clone the forked repo into your local machine 
 ```markdown
 git clone https://github.com/PrathameshTheurkar/break-through-Web-Dev-.git
